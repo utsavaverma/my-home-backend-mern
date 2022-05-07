@@ -9,11 +9,11 @@ My Home also attempts to foster a feeling of community by offering a discussion 
 
 ## Authors
 
-- [Harsh Samirbhai Bhatt](mailto:harsh.bhatt@dal.ca)
-- [Namit Dadlani](mailto:nm856602@dal.ca)
-- [Arunkumar Gauda](mailto:arung@dal.ca)
-- [Utsava Verma](mailto:ut752143@dal.ca)
-- [Sai Vaishnavi Jupudi](mailto:sv984706@dal.ca)
+- Utsava Verma
+- Harsh Samirbhai Bhatt
+- Namit Dadlani
+- Arunkumar Gauda
+- Sai Vaishnavi Jupudi
 
 ## App Deployment URL:
 
